@@ -2,6 +2,7 @@
 
 1. 去除英文导航栏，仅保存中文页面。
 2. 去除`<a href="#" class="xe-user-name overflowClip_1">`中的`href="#"`，不让页面点击后自动返回页首。
+3. 将`./assets/`替换为`https://cdn.jsdelivr.net/gh/rockbenben/WebStack/assets/`，实现 jsDelivr cdn 加速
 
 以下为原版信息
 ===
